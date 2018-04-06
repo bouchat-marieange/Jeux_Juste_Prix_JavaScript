@@ -1,5 +1,7 @@
 # Jeux Juste Prix (JavaScript)
 
+Le jeux est accessible à l'adresse : https://bouchat-marieange.github.io/Jeux_Juste_Prix_JavaScript/
+
 ![Logo JavaScript](logo_javascript.jpg)
 
 Jeux du juste prix réalisé dans le cadre du parcours d'apprentissage du langage Javascript proposé par BeCode
