@@ -1,4 +1,4 @@
-# Jeux_Juste_Prix_JavaScript
+# Jeux Juste Prix (JavaScript)
 
 ![Logo JavaScript](logo_javascript.jpg)
 
