@@ -1,6 +1,6 @@
-# Jeux Juste Prix (JavaScript)
+# Jeu Juste Prix (JavaScript)
 
-Le jeux est accessible à l'adresse : https://bouchat-marieange.github.io/Jeux_Juste_Prix_JavaScript/
+Le jeu est accessible à l'adresse : https://bouchat-marieange.github.io/Jeux_Juste_Prix_JavaScript/
 
 ![Logo JavaScript](logo_javascript.jpg)
 
